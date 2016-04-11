@@ -32,16 +32,15 @@ Tree Diagrams:
 Identifying Structure:
 - HTML = structure of a document
 
-**Visualizing Structure with a Tree:**
+Visualizing Structure with a Tree:
 - Identify structural elements (header, logo, navigation links, footer, etc)
 - Create a tree diagram: specifies the contents of the various elements
 
-
-DOM elements that are lower in the tree: descendants with path connecting
-
-* Parent elements: above child elements
-* Child elements: immediate descendants of parents
-* Children of the `<body>` element: `<header>`, `<main>`, and `<footer>.`
+DOM elements that are lower in the tree: 
+- Descendants with path connecting
+- Parent elements: above child elements
+- Child elements: immediate descendants of parents
+- Children of the `<body>` element: `<header>`, `<main>`, and `<footer>.`
 
 **Structuring the `<main>` content:**
 
