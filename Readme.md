@@ -30,10 +30,10 @@ Tree Diagrams:
 - mental models of the DOM
 
 Identifying Structure:
-HTML = structure of a document
+- HTML = structure of a document
 
 Visualizing Structure with a Tree:
-1.  Identify structural elements (header, logo, navigation links, footer, etc)
+1. Identify structural elements (header, logo, navigation links, footer, etc)
 2. Create a tree diagram: specifies the contents of the various elements
 
 			`<body>`
