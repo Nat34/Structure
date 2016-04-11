@@ -14,10 +14,16 @@ Notes:
 
 Document Object Model (DOM) and Trees: 
 
+DOM:
 HTML tags define a hierarchical structure called the DOM
-DOM represents objects defined via HTML and then later interacted with via a scripting language, like JavaScript.
+DOM represents objects defined via HTML and then later interacted with via a scripting language, like JavaScript. Tags define DOM elements
 
-Tags define DOM elements
+Tree Diagrams:
+mental models of file systems
+mental models of the DOM
+
+
+
 
 Web browser master list:
 Firefox 3.5+
