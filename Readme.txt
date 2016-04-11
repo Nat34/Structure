@@ -12,7 +12,12 @@ The typical workflow will be to open the file in Sublime text editor, make minor
 
 Notes:
 
-Document Object Model and Trees: HTML 
+Document Object Model (DOM) and Trees: 
+
+HTML tags define a hierarchical structure called the DOM
+DOM represents objects defined via HTML and then later interacted with via a scripting language, like JavaScript.
+
+Tags define DOM elements
 
 Web browser master list:
 Firefox 3.5+
