@@ -1,6 +1,6 @@
 This folder contains practice files.  These files were created to develop and learn HyperText Markup Language (HTML) syntax used to support user interface.
 
-Project: Structure a user interface with HTML
+Project: Structure a user interface with HTML.
 
 Drivers: To learn and use HTML to create and visually represent a webpage.
 
@@ -22,6 +22,21 @@ Tree Diagrams:
 mental models of file systems
 mental models of the DOM
 
+Identifying Structure:
+HTML = structure of a document
+
+Visualizing Structure with a Tree:
+1.Identify structural elements (header, logo, navigation links, footer, etc)
+2.Create a tree diagram: specifies the contents of the various elements
+
+			<body>
+
+  <header> 		<main>		<footer>
+<h1> <nav>            <div> <img>      <div> <div>
+		      <h2>	       <h5>  <h5> <ul>
+  		      <p>              <p>      <li>  <li>
+		      <h3>	       <p>      <li>  <li>
+		      <p>              <p>      <li>  <li>
 
 
 
