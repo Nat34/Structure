@@ -33,8 +33,8 @@ Identifying Structure:
 HTML = structure of a document
 
 Visualizing Structure with a Tree:
-1 Identify structural elements (header, logo, navigation links, footer, etc)
-2 Create a tree diagram: specifies the contents of the various elements
+1.  Identify structural elements (header, logo, navigation links, footer, etc)
+2. Create a tree diagram: specifies the contents of the various elements
 
 			`<body>`
 
@@ -81,8 +81,6 @@ Web browser master list:
 * Chrome for Android 2
 
 **HTML international standards and specifications maintaince:**
-W3C: [World Wide Web Consortium](http://www.w3.org/)
-
-WHATWG: [Web Hypertext Application Technology Working Group](http://www.whatwg.org/)
-
-Markup Validation Service: [MVS](http://validator.w3.org/)
+* W3C: [World Wide Web Consortium](http://www.w3.org/)
+* WHATWG: [Web Hypertext Application Technology Working Group](http://www.whatwg.org/)
+* Markup Validation Service: [MVS](http://validator.w3.org/)
