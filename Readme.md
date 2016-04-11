@@ -32,7 +32,7 @@ Tree Diagrams:
 Identifying Structure:
 - HTML = structure of a document
 
-Visualizing Structure with a Tree:
+**Visualizing Structure with a Tree:**
 1. Identify structural elements (header, logo, navigation links, footer, etc)
 2. Create a tree diagram: specifies the contents of the various elements
 
@@ -52,15 +52,15 @@ DOM elements that are lower in the tree: descendants with path connecting
 * Child elements: immediate descendants of parents
 * Children of the `<body>` element: `<header>`, `<main>`, and `<footer>.`
 
-Structuring the `<main>` content:
+**Structuring the `<main>` content:**
 
-`<h2>` and `<h3>`: represent heading text
-`<p>`:  represents paragraph content
-`<ul>`: represents unordered lists
-`<li>`: represents list items
-`<img>`: represents an image file / is a VOID tag, does not require a closing tag. Also, has alt attribute which contains a textual description of the image. this is important to make the page accessible by the visually impaired, who often use screen readers when browsing the Internet.
+* `<h2>` and `<h3>`: represent heading text
+* `<p>`:  represents paragraph content
+* `<ul>`: represents unordered lists
+* `<li>`: represents list items
+* `<img>`: represents an image file / is a VOID tag, does not require a closing tag. Also, has alt attribute which contains a textual description of the image. this is important to make the page accessible by the visually impaired, who often use screen readers when browsing the Internet.
 
-Structuring the `<footer>` content:
+**Structuring the `<footer>` content:**
 
 `<div>` and `<span>`: generic tags that allow one to create elements that represent some structure that is defined by ourselves
 
@@ -68,7 +68,7 @@ Structuring the `<footer>` content:
  
 
 
-Web browser master list:
+**Web browser master list:**
 * Firefox 3.5+
 * Firefox for Android 19+
 * Chrome 4.0+
