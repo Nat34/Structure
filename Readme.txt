@@ -45,6 +45,13 @@ Parent elements: above child elements
 Child elements: immediate descendants of parents
 Children of the <body> element: <header>, <main>, and <footer>.
 
+Structuring the <main> content:
+<h2> and <h3>: represent heading text
+<p>:  represents paragraph content
+<ul>: represents unordered lists
+<li>: represents list items
+<img>: represents an image file / is a VOID tag, does not require a closing tag. Also, has alt attribute which contains a textual description of the image. this is important to make the page accessible by the visually impaired, who often use screen readers when browsing the Internet.
+ 
 
 
 Web browser master list:
