@@ -39,6 +39,13 @@ Visualizing Structure with a Tree:
 		      <p>              <p>      <li>  <li>
 
 
+DOM elements that are lower in the tree: descendants with path connecting
+
+Parent elements: above child elements
+Child elements: immediate descendants of parents
+Children of the <body> element: <header>, <main>, and <footer>.
+
+
 
 Web browser master list:
 Firefox 3.5+
