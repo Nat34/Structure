@@ -33,8 +33,8 @@ Identifying Structure:
 - HTML = structure of a document
 
 **Visualizing Structure with a Tree:**
-1. Identify structural elements (header, logo, navigation links, footer, etc)
-2. Create a tree diagram: specifies the contents of the various elements
+* Identify structural elements (header, logo, navigation links, footer, etc)
+1. Create a tree diagram: specifies the contents of the various elements
 
 			`<body>`
 
