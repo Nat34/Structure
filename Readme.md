@@ -22,12 +22,12 @@ The typical workflow will be to open the file in Sublime text editor, make minor
 **Document Object Model (DOM) and Trees**
 
 DOM:
--HTML tags define a hierarchical structure called the DOM
--DOM represents objects defined via HTML and then later interacted with via a scripting language, like JavaScript. Tags define -DOM elements
+- HTML tags define a hierarchical structure called the DOM
+- DOM represents objects defined via HTML and then later interacted with via a scripting language, like JavaScript. Tags define - DOM elements
 
 Tree Diagrams:
--mental models of file systems
--mental models of the DOM
+- mental models of file systems
+- mental models of the DOM
 
 Identifying Structure:
 HTML = structure of a document
