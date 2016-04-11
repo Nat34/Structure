@@ -34,11 +34,11 @@ Identifying Structure:
 
 **Visualizing Structure with a Tree:**
 * Identify structural elements (header, logo, navigation links, footer, etc)
-1. Create a tree diagram: specifies the contents of the various elements
+* Create a tree diagram: specifies the contents of the various elements
 
-			`<body>`
+			`<body>
 
-  `<header>` 		`<main>`	`<footer>`
+  <header> 		<main>	<footer>`
 `<h1>` `<nav>`            `<div>` `<img>`      `<div>` `<div>`
 		       `<h2>`	   `<h5>`      `<h5>`  `<ul>`
   		       `<p>`        `<p>`      `<li>`  `<li>`
