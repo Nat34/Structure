@@ -74,4 +74,4 @@ DOM elements that are lower in the tree:
 * W3C: [World Wide Web Consortium](http://www.w3.org/)
 * WHATWG: [Web Hypertext Application Technology Working Group](http://www.whatwg.org/)
 * Markup Validation Service: [MVS](http://validator.w3.org/)
-* *AFB: [Accessible Websites and Design](http://www.afb.org/info/programs-and-services/technology-evaluation/creating-accessible-websites/123)
+* AFB: [Accessible Websites and Design](http://www.afb.org/info/programs-and-services/technology-evaluation/creating-accessible-websites/123)
