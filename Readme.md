@@ -48,7 +48,7 @@ DOM elements that are lower in the tree:
 * `<p>`:  represents paragraph content
 * `<ul>`: represents unordered lists
 * `<li>`: represents list items
-* `<img>`: represents an image file / is a VOID tag, does not require a closing tag. Also, has alt attribute which contains a textual description of the image. this is important to make the page accessible by the visually impaired, who often use screen readers when browsing the Internet.
+* `<img>`: represents an image file / is a VOID tag, does not require a closing tag. Also, has alt attribute which contains a textual description of the image. This is important for creating accessible websites.
 
 **Structuring the `<footer>` content:**
 
@@ -70,7 +70,8 @@ DOM elements that are lower in the tree:
 * Opera Mobile 12.1+
 * Chrome for Android 2
 
-**HTML international standards and specifications maintaince:**
+**HTML international standards and specifications maintenance:**
 * W3C: [World Wide Web Consortium](http://www.w3.org/)
 * WHATWG: [Web Hypertext Application Technology Working Group](http://www.whatwg.org/)
 * Markup Validation Service: [MVS](http://validator.w3.org/)
+* *AFB: [Accessible Websites and Design](http://www.afb.org/info/programs-and-services/technology-evaluation/creating-accessible-websites/123)
