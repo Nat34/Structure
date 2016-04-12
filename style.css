@@ -1,0 +1,22 @@
+body {
+	background: #f9e933;
+}
+
+header, main, footer {
+	min-width: 855px;
+}
+
+header {
+	background: white;
+}
+
+main {
+	background: white;
+}
+
+/* The Grid
+Defines a styling grid over the content
+Basic approach to design layouts
+Fixed width design: content remains centered at same width regardless of browser window resizing
+Fixed width design: not responsive
+`min-width` property: */
