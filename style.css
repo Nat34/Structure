@@ -1,5 +1,7 @@
 body {
 	background: #f9e933;
+	font-size: 100%; /*sets the base font size for everything*/
+	font-family: 'Denk One', sans-serif;
 }
 
 header, main, footer {
@@ -19,6 +21,7 @@ header {
 header h1 {
 	float: left;
 	width: 570px;
+	font-size: xx-large;
 }
 
 header nav {
