@@ -1,9 +1,11 @@
 body {
 	background: #f9e933;
+	margin: auto;
 }
 
 header, main, footer {
 	min-width: 855px;
+	max-width: 855px;
 }
 
 header {
@@ -19,4 +21,12 @@ Defines a styling grid over the content
 Basic approach to design layouts
 Fixed width design: content remains centered at same width regardless of browser window resizing
 Fixed width design: not responsive
-`min-width` property: */
+`min-width` property: hides remaining part of the page 
+from view if browser is resized to a viewport smaller than 885px 
+
+Goal: content centered and fixed at 855px wide
+855px is divisible by 3 (columns are roughly 2/3 to 1/3 wide)
+
+Possible solution:
+Add max-width rule to ruleset styling of the header, main and footer.
+Set the margin on the body to auto*/
