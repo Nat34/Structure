@@ -1,7 +1,6 @@
 body {
 	background: #f9e933;
-	font-size: 100%; /*sets the base font size for everything*/
-	font-family: 'Denk One', sans-serif;
+	font-family: 'Droid Sans', sans-serif;
 }
 
 header, main, footer {
@@ -18,10 +17,25 @@ header {
 	overflow: auto;
 }
 
-header h1 {
+h1 {
+	font-family: 'Ubuntu', sans-serif;
 	float: left;
 	width: 570px;
-	font-size: xx-large;
+}
+
+h2, h3, h4 {
+	font-family: 'Ubuntu', sans-serif;
+}
+
+/*links*/
+
+a {
+	color: red;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
 }
 
 header nav {
