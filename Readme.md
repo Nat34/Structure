@@ -73,7 +73,7 @@ DOM elements that are lower in the tree:
 * Opera Mobile 12.1+
 * Chrome for Android 2
 
-**HTML international standards and specifications maintenance:**
+**HTML international standards, specifications and maintenance:**
 * W3C: [World Wide Web Consortium](http://www.w3.org/)
 * WHATWG: [Web Hypertext Application Technology Working Group](http://www.whatwg.org/)
 * Markup Validation Service: [MVS](http://validator.w3.org/)
