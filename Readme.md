@@ -1,7 +1,7 @@
 # Structure-HTML
 Client-side topic: HTML
 
-This folder contains practice files.  These files were created to develop and learn HyperText Markup Language (HTML) syntax used to support user interface.  These practice files and documentation (notes) are the result of learning (by doing) with the following text:
+This repository contains practice files.  These files were created to develop and learn HyperText Markup Language (HTML) syntax used to support user interface.  These practice files and documentation (notes) are the result of learning (by doing) with the following text:
 ```
 "Learning Web App Development by Semmy Purewal (O'Reilly). Copyright 2014 Semmy Purewal, 978-1-449-37019-0."
 ```
