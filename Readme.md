@@ -1,7 +1,7 @@
 # Structure-HTML
 Client-side topic: HTML
 
-This folder contains practice files.  These files were created to develop and learn HyperText Markup Language (HTML) syntax used to support user interface.
+This repository contains practice files.  These files were created to develop and learn HyperText Markup Language (HTML) syntax used to support user interface.
 
 ## Project: 
 Structure a user interface with HTML.
@@ -70,7 +70,7 @@ DOM elements that are lower in the tree:
 * Opera Mobile 12.1+
 * Chrome for Android 2
 
-**HTML international standards and specifications maintenance:**
+**HTML international standards, specifications and maintenance:**
 * W3C: [World Wide Web Consortium](http://www.w3.org/)
 * WHATWG: [Web Hypertext Application Technology Working Group](http://www.whatwg.org/)
 * Markup Validation Service: [MVS](http://validator.w3.org/)
