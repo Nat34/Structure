@@ -58,6 +58,11 @@ main .right {
 	width: 285px;
 }
 
+footer {
+    border-top: 1px solid #ddd;
+    padding: 40px 0 20px 0;
+}
+
 footer .left {
   float: left;
   width: 570px;
